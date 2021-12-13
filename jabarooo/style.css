@@ -1,0 +1,14 @@
+h1{
+    float:center;
+    font-style: italic;
+    font-size:x-large;
+    
+
+}
+.heading{
+    background-color: darkslategray;
+    font-style: italic;
+    font: larger;
+    float: left;
+
+}

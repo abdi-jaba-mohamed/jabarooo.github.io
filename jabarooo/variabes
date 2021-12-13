@@ -1,0 +1,25 @@
+var year = 1990 : dynamic data from form
+var month = 12
+var day = 7
+var gender = male;
+var days = ["Sunday", "Monday", "Tuesday", "Wensday","Thursday", "Friday",];
+var Names =["Kwasi", "Kwado", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame",];
+var gender = female;
+var day = ["Sunday", "Monday", "Tuesday", "Wensday","Thursday", "Friday",];
+var Names =["Akosua', "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama",];
+    
+
+
+
+string : data type.
+transform string to become integers.
+
+var CC = parseInt(year): slice;
+var YY =2021
+CC : century : 1990
+MM : 12
+DD : 10
+
+
+
+var dayoftheweek=( ( (slice/4) -2*1990-1) + ((5*2021/4) ) + ((26*(12+1)/10)) + 10) % 7
